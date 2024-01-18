@@ -1,11 +1,11 @@
 import os
 
 # Danh sách tên thư mục mới
-danh_sach_ten_thu_muc = ["VONESA", "NIU24", "Jinrinteen", "Aligro", "NHUH20", "KHATOCO", "GOKING",
-    "Novelty", "VHL", "Titishop", "Atlan", "Chandi", "LienPhuong", "Amazing",
-    "Owen", "VinhTien", "Viettien", "dokafashion", "Generos", "LAHstore", "Doka",
-    "Julido_Store", "ARADO_FASHION", "Fasvin", "VietTien", "SOMIANTON", "SZone",
-    "N6", "LADOS", "SLINEN"]
+danh_sach_ten_thu_muc = ["VONESA", "NIU24", "Jinrinteen", "Haint_Boutique", "Atlan", "ARCTIC_HUNTER",
+    "NHUH20", "OLV", "LAHstore", "ĐuiViet", "Kun93", "LUPERI", "Miley_Lingerie",
+    "ArcticHunter", "B.Lingerie", "Dottie", "Baw", "BARE", "Wannabe", "LA_BELLE_STORE",
+    "VHL", "Song_An_Eco", "CCHAT_CLOTHES", "Vincy", "GOKING", "HoYang", "CHONMUA_365",
+    "LQ_luxury", "lylylorem", "KHANH_LINH_STYLE"]
 
 # Đường dẫn hiện tại
 duong_dan_hien_tai = os.getcwd()
